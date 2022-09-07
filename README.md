@@ -1,12 +1,16 @@
-<h1 align="center"> ## Hello there 👋 </h1>
+<h1 align="center">Hello there</h1>
 
 ![Test](https://media-exp1.licdn.com/dms/image/C4D16AQFLqAIAiKMt1A/profile-displaybackgroundimage-shrink_350_1400/0/1659196286727?e=1667433600&v=beta&t=RLAttiPLXzd3zXg12smbd4VeWmnP6pHxzYFNBPdh_B8)
+
+<h3 align="center">I'm Bartek 👋</h3>
 
 <h3 align="center">PhD candidate, Lodz University of Technology.</h3>
 
 - 🌱 I’m currently learning **Machine Lerning, Kotlin and Android Studio.**
 
 - 📫 How to reach me **Bartlomiej.G.Kluczynski@gmail.com**
+
+- ⚡ Fun fact **I love board games, swimming, playing volleyball and soccer. I am currently treating a torn achilles.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
