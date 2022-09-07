@@ -1,8 +1,8 @@
-<h1 align="center">Hello there</h1>
+<h1>Hello there</h1>
 
-<h3 align="center">I'm Bartek 👋</h3>
+<h3>I'm Bartek 👋</h3>
 
-<h3 align="center">PhD candidate, Lodz University of Technology.</h3>
+<h3>PhD candidate, Lodz University of Technology.</h3>
 
 - 🌱 I’m currently learning **Machine Lerning, Kotlin and Android Studio.**
 
