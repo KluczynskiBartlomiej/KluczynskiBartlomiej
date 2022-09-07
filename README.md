@@ -1,15 +1,10 @@
-## Hello there 👋 
+<h1 align="center"> ## Hello there 👋 </h1>
 
 ![Test](https://media-exp1.licdn.com/dms/image/C4D16AQFLqAIAiKMt1A/profile-displaybackgroundimage-shrink_350_1400/0/1659196286727?e=1667433600&v=beta&t=RLAttiPLXzd3zXg12smbd4VeWmnP6pHxzYFNBPdh_B8)
 
-
-I’m currently working on this page. 
-
-
-<h1 align="center">Hi 👋, I'm Bartek.</h1>
 <h3 align="center">PhD candidate, Lodz University of Technology.</h3>
 
-- 🌱 I’m currently learning **Machine Lerning, Kotlin.**
+- 🌱 I’m currently learning **Machine Lerning, Kotlin and Android Studio.**
 
 - 📫 How to reach me **Bartlomiej.G.Kluczynski@gmail.com**
 
