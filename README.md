@@ -35,7 +35,7 @@
 
 ### Feel free to reach out to me for collaborations, discussions, or any exciting opportunities in the field of data analysis and artificial intelligence.
 
-### Email: BARTLOMIE.G.KLUCZYNSKI@GMAIL.COM
+### Email: BARTLOMIEJ.G.KLUCZYNSKI@GMAIL.COM
 
 ### LinkedIn: https://www.linkedin.com/in/kluczynski/
 
