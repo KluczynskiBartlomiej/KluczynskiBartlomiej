@@ -23,6 +23,10 @@
 - TensorFlow
 - XGBoost
 
+## Personal Interests
+
+### In addition to my academic and professional pursuits, I am passionate about board games, swimming, volleyball, fantasy literature, and history. I also have a keen interest in Game Development and aspire to create electronic versions of board games in the future. I'm a big fan of ONE PIECE.
+
 ## Looking Forward
 
 ### I am eager to explore opportunities at the intersection of mathematics, computer science, data analysis, and artificial intelligence. My academic background, combined with my newfound skills in Python and AI, positions me uniquely to contribute to projects and research in these domains.
